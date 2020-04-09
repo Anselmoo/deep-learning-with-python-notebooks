@@ -2,3 +2,4 @@ numpy
 matplotlib
 keras
 tensorflow
+pillow
